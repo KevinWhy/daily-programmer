@@ -1,4 +1,6 @@
-# ...???
+# Letter Substitution...???
+
+Completed on Aug 11, 2017
 
 I'm almost certain I wrote this for a challenge on the DailyProgrammer subreddit...
 

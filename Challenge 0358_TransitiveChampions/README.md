@@ -1,5 +1,6 @@
 # Everyone's A Winner! (aka: Transitive Champions)
 https://www.reddit.com/r/dailyprogrammer/comments/8ewq2e/20180425_challenge_358_intermediate_everyones_a/
+
 Completed on May 23, 2018
 
 > Today's challenge comes from the website fivethirtyeight.com,

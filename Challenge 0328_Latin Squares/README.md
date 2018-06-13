@@ -1,5 +1,6 @@
 # Latin Squares
 https://www.reddit.com/r/dailyprogrammer/comments/6v29zk/170821_challenge_328_easy_latin_squares/
+
 Completed on Aug 23, 2017
 
 > A Latin square is an n × n array filled with n different symbols,
